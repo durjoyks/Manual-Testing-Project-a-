@@ -33,7 +33,7 @@ This project involved comprehensive testing of the SauceDemo application, encomp
 | **2Test_Case.xlsx** | The complete test case matrix (34 cases) detailing steps, expected results, and execution status for UI testing. |
 | **3Bug_Report.xlsx** | The initial defect list (8 bugs), including severity, steps to reproduce, and impact assessment. |
 | **4Test_summary_Report.pdf** | The final report summarizing testing coverage, execution results, defect analysis, and overall quality assessment. |
-| **saucedemo_API_test_REPORT.html** | The generated report from the API test suite execution (e.g., Newman/Postman). |
+| **saucedemo_API_test_REPORT.html** | The generated report from the API test suite execution (Postman). |
 | **saucedemo_api_test.postman_collection.json** | The Postman collection file used for executing API tests against the application endpoints. |
 
 ---
