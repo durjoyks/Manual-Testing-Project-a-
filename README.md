@@ -1,4 +1,4 @@
-# SauceDemo QA Documentation and Artifacts
+# SauceDemo QA (Manual Testing)
 
 This repository serves as the central documentation hub for the Quality Assurance (QA) effort covering the **SauceDemo E-commerce Website**.
 
